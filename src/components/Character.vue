@@ -39,4 +39,9 @@ export default class Character extends Vue {
     .character-row{
         margin-top: 20px;
     }
+
+    img{
+      max-width: 100%;
+    }
+
 </style>
