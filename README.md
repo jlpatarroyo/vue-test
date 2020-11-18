@@ -1,5 +1,3 @@
-# vue-typescript-crud
-
 ## Project setup
 ```
 npm install
